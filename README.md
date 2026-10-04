@@ -13,7 +13,7 @@ Split mechanical keyboard that uses ESP32 to communicate with the computer throu
 
 ## Demo
 
-*Will add soon.*
+![Left Keyboard](keyb1.jpeg) ![Wiring](keyb2.jpeg) ![Full Keyboard without MCU](keyb3.jpeg)
 
 ## Bill of Materials
 
@@ -31,7 +31,8 @@ Below quantities are per one hand. You will need to double every quantity to bui
 
 ## Wiring Guide
 
-*Will be added; this part describes row/column matrix arrangement and ESP32 pin connections.*
+[QMK Guide](https://docs.qmk.fm/hand_wire)
+[Useful Vid](https://www.youtube.com/watch?v=hjml-K-pV4E)
 
 ## Installation
 
