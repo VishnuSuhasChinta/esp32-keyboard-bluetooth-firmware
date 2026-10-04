@@ -31,8 +31,8 @@ Below quantities are per one hand. You will need to double every quantity to bui
 
 ## Wiring Guide
 
-[QMK Guide](https://docs.qmk.fm/hand_wire)
-[Useful Vid](https://www.youtube.com/watch?v=hjml-K-pV4E)
+- [QMK Guide](https://docs.qmk.fm/hand_wire)
+- [Useful Vid](https://www.youtube.com/watch?v=hjml-K-pV4E)
 
 ## Installation
 
